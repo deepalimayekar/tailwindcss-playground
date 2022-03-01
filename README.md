@@ -23,11 +23,11 @@ To get started:
    ```
 
 3. Start the development server:
-
+If using npm
    ```bash
    # Using npm
    npm run serve
-
+If using yarn
    # Using Yarn
    yarn serve
    ```
